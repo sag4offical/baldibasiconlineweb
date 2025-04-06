@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<style>
+body {
+  background-image: url('https://raw.githubusercontent.com/sag4offical/baldibasiconlineweb/refs/heads/main/baldi_SUS.png');
+}
+</style>
+<center>
+  <iframe id="iframe_view" class="embed-responsive-item container well well-small span6" style="height: 720px; width: 1280px; background-color: #2e2e2e;" src="https://simmer.io/@BrawniestLine25/baldi-basics-full-game-public-demo-v12" frameborder="0" scrolling="no" allowfullscreen>
+</center>
+
+
